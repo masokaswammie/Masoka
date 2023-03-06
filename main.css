@@ -2,10 +2,11 @@ body {
     margin-top: 30px;
 }
 .nav-item{
-    padding: 5px;
+    padding: 3px;
 }
 .card{
     height: 100px;
+    color: linear;
 }
 h5 p{
     text-align: center;
